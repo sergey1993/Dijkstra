@@ -1,0 +1,12 @@
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj
+*.filters
+*.suo
+*.vs
+.vs/Dijkstra/v14/.suo
+.vs*
+*.gitignore
+ipch/
+

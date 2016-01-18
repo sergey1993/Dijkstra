@@ -1,0 +1,2 @@
+#pragma once
+unsigned myDijkstra(vector<unsigned> first_out, vector<unsigned> head, vector<unsigned> weight, unsigned source, unsigned target, vector<int>& run, vector<unsigned>& distance, unsigned& i, MinIDQueue priority_queue);
